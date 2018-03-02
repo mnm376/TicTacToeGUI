@@ -1,2 +1,2 @@
 # TicTacToeGUI
-Game with GUI
+This TicTacToe game is run with a GUI rather than on terminal
